@@ -144,7 +144,7 @@ Para resolver estes problemas repetitivos, os engenheiros de software inventaram
 Aqui temos 2 padrões comuns para criação de objetos. Se você terminou o curso "Como Aprender JavaScript Corretamente", você viu nas lições em Codecademy que utilizavam este primeiro padrão frequentemente:
 
 ### 1. **Padrão Construtor para Criação de Objetos**
-
+##########################################################Parei Aqui #####################################################
 ```javascript
 function Fruta(aCor, aDoçura, oNomeDaFruta, asTerrasNativas) {
 	this.cor = aCor;
